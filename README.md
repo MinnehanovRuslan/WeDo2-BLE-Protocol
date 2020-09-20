@@ -1,12 +1,8 @@
 # WeDo2-BLE-Protocol
-Study of the LEGO WeDo 2 BLE protocol at the byte level.
+В данной ветке будут переведены на русский язык комментаии вложенные в класс Smarthub
+Изучение протокола LEGO WeDo 2 BLE на байтовом уровне. 
 
-This was carried out using a BLED112 dongle, however the data can be used
-in any app that can write byte data to a UUID.
+Это было выполнено с использованием ключа BLED112, однако данные можно использовать 
+в любом приложении, которое может записывать байтовые данные в UUID. 
 
-The official SDK is at 
-https://education.lego.com/en-us/support/wedo-2/developer-kits
-
-However sometimes its just easier to write  a few bytes directly to a UUID!
-
-Hope it's of some use in your project.
+Официальный SDK находится по адресу 8 https://education.lego.com/en-us/support/wedo-2/developer-kits 
